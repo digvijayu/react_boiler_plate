@@ -1,4 +1,4 @@
-# react_webpack_4_from_scratch
+# React Boiler Plate
 Create from scratch React Application and build with Webpack 4  
 
 ## How to run
@@ -9,7 +9,12 @@ npm install
 
 run the application
 ```
-npm start
+npm run start-server
+```
+
+in another terminal run
+```
+npm run watch
 ```
 
 ## Related articles
